@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssingh13-rms&label=Profile%20views&color=0e75b6&style=flat" alt="ssingh13-rms" /> </p>
 
-- 🔭 I’m currently working on **Cyber Risk analytics**
-
-- 👯 I’m looking to collaborate on **Machine Learning projects**
-
-- 📝 I regularly write articles on [https://sanidhya235.medium.com/](https://sanidhya235.medium.com/)
-
-- 📫 How to reach me **sanidhya235@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/2760723" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="2760723" height="30" width="40" /></a>
