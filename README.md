@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssingh13-rms/ssingh13-rms/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssingh13-rms/ssingh13-rms/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ssingh13-rms/ssingh13-rms/output/github-contribution-grid-snake.svg">
+</picture>
+
 Currently building a world-class Cyber Risk Model at [Moody's RMS](https://rms.com/)
 
 Interested in 
