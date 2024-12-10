@@ -17,3 +17,6 @@ Have a look at my [personal website](https://sanidhya-singh.github.io/).
 I sporadically write technical articles on my [Medium](https://medium.com/@sanidhya235).
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssingh13-rms&" alt="ssingh13-rms" /></p>
+
+
+[![Sanidhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssingh13-rms)](https://github.com/anuraghazra/github-readme-stats)
