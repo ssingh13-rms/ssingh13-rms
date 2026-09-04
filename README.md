@@ -6,7 +6,7 @@
 
 <h1>Hello there!</h1>
 
-Currently building a world-class Cyber Risk Model at [Moody's RMS](https://rms.com/)
+Currently building a world-class Cyber Risk Model at [Moody's](https://www.moodys.com/web/en/us/who-we-serve/insurance.html)
 
 Interested in 
 - distributed systems
